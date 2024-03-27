@@ -11,10 +11,10 @@ ReactDOM.render(
       <a className="nav-link text-primary" href="#section1" style={{fontFamily: 'Pacifico, cursive'}}>About</a>
     </li>
     <li className="nav-item">
-      <a className="nav-link text-primary" href="#section2" style={{fontFamily: 'Pacifico, cursive'}}>Professional Experience</a>
+      <a className="nav-link text-primary" href="#section2a" style={{fontFamily: 'Pacifico, cursive'}}>Professional Experience</a>
     </li>
     <li className="nav-item">
-      <a className="nav-link text-primary" href="#section2a" style={{fontFamily: 'Pacifico, cursive'}}>Education</a>
+      <a className="nav-link text-primary" href="#section2" style={{fontFamily: 'Pacifico, cursive'}}>Education</a>
     </li>
     <li className="nav-item ">
       <a className="nav-link text-primary" style={{fontFamily: 'Pacifico, cursive'}} href="#section3">Skills</a>
